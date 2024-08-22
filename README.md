@@ -3,7 +3,7 @@
 ## Descrição
 Este é um aplicativo desenvolvido em Python utilizando as bibliotecas Pandas e PyGUI. O aplicativo foi criado para atender a uma necessidade específica em uma empresa de internet, onde o dono queria entender melhor como os novos clientes estavam chegando até a loja, ou seja, como as estratégias de marketing estavam influenciando as vendas.
 
-# Funcionalidades
+# Funcionalidades 
 Registro de Clientes: 
 A funcionária pode inserir o código do cliente e selecionar a opção correspondente à forma como ele chegou à loja, como por exemplo, por meio de uma propaganda móvel, por indicação dos técnicos de campo, entre outras opções.
 
@@ -18,9 +18,10 @@ O aplicativo possui um "Abrir dashboard" que gera um gráfico de pizza, mostrand
 Este projeto surgiu da curiosidade do dono da empresa em entender a eficácia de suas campanhas de marketing. Desenvolvi este aplicativo simples, mas funcional, para ajudar a coletar e visualizar esses dados de forma prática.
 
 # Tecnologias Utilizadas
-Python
+Python 
 Pandas
 PyGUI
+![](https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000)
 
 ## Como Utilizar
 Insira o código do cliente.
