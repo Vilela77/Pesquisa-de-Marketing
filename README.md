@@ -28,4 +28,4 @@ Insira o código do cliente.
 Selecione a opção que descreve como o cliente chegou à loja.
 Clique no botão para gerar o gráfico e visualizar os resultados.
 # Conclusão
-Embora seja um aplicativo básico, ele fornece insights valiosos sobre as estratégias de marketing d
+Embora seja um aplicativo básico, ele fornece insights valiosos sobre as estratégias de marketing.
